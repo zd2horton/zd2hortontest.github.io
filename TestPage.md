@@ -1,7 +1,3 @@
-layout: page
-title: "Tester Page"
-permalink: /teststuff
-
 Hello, is this a test?
 
 <figure>
