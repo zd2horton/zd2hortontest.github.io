@@ -1,7 +1,6 @@
-layout: page
-title: "Tester Page"
-permalink: /teststuff
-
+---
+youtubeId: LWVKgK0nHd8
+---
 Hello, is this a test?
 
 <figure>
@@ -9,3 +8,6 @@ Hello, is this a test?
 </figure>
 
 I think?
+
+
+{% include youtubePlayer.html id=page.youtubeId %}
