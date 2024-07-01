@@ -4,3 +4,4 @@ description: Portfolio for recent projects and prior university work.
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
+site_favicon: favicon.ico
