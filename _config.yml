@@ -5,3 +5,4 @@ show_downloads: true
 google_analytics:
 theme: jekyll-theme-minimal
 site_favicon: favicon.ico
+permalink: /:categories/:year/:month/:day/:title:output_ext
