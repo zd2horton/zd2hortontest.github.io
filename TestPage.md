@@ -1,5 +1,8 @@
 ---
 youtubeId: LWVKgK0nHd8
+layout: page
+title: "Testing Page"
+permalink: /teststuff
 ---
 
 Hello, is this a test?
