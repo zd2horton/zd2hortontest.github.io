@@ -1,6 +1,6 @@
 ---
 youtubeId: LWVKgK0nHd8
-layout: default
+layout: post
 title: "Testing Page"
 permalink: /teststuff
 ---
