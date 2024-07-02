@@ -13,5 +13,8 @@ Hello, is this a test?
 
 I think?
 
-
 {% include youtubePlayer.html id=page.youtubeId %}
+
+
+[Please work.]({% link _posts/2024-07-01-TesterPost.md %})
+[Maybe this?]({% post_url 2024-07-01-TesterPost %})
