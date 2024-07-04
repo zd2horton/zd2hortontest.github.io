@@ -6,7 +6,7 @@ date: 2024-07-01
 categories: FinishedProject
 ---
 
-#Welcome
+# Welcome
 
 Hello! This is another showing of __**funny train**__.
 
