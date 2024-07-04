@@ -6,7 +6,7 @@ date: 2024-07-04
 categories: FinishedProject
 ---
 
-## 2019, Year 2
+<p style="text-align: center;">## 2019, Year 2</p>
 
 ### Skills, Engines Used: 
 
