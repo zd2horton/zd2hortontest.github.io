@@ -1,16 +1,14 @@
 ---
 youtubeId: LWVKgK0nHd8
-layout: post
+layout: projectpage
 title: "This Is A Project"
 date: 2024-07-04
 categories: FinishedProject
 ---
 
-# Welcome
-
 ## 2019, Year 2
 
-**Skills, Engines Used:**: 
+### Skills, Engines Used: 
 
 - Unity
 - Other Thing
@@ -33,3 +31,4 @@ Also, look at this.
 
 
 Oh hey it's my [bestselling book (trust)](/ProjectPages/hi.txt)
+[Hi! This is Twitter.](https://x.com/home)
