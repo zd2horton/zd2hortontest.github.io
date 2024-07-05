@@ -2,11 +2,11 @@
 youtubeId: LWVKgK0nHd8
 layout: projectpage
 title: "This Is A Project"
+projectyear: 2019
+projectperiod: Year 2
 date: 2024-07-04
 categories: FinishedProject
 ---
-
-<center><h2>2019, Year 2</h2></center>
 
 ### Skills, Engines Used: 
 
