@@ -35,8 +35,3 @@ Oh hey it's my [bestselling book (trust)](/ProjectPages/hi.txt)
 
 
 <button name="button" onclick="http://www.google.com">Click me</button>
-
-
-Lorem ipsum dolor sit amet.
-
-#{% include button.html url="http://www.google.com" %}
