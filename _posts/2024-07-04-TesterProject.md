@@ -32,3 +32,11 @@ Also, look at this.
 
 Oh hey it's my [bestselling book (trust)](/ProjectPages/hi.txt)
 [Hi! This is Twitter.](https://x.com/home)
+
+
+<button name="button" onclick="http://www.google.com">Click me</button>
+
+
+Lorem ipsum dolor sit amet.
+
+{% include button.html url="http://www.google.com" %}
