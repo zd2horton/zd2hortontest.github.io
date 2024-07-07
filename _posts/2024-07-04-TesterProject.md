@@ -32,3 +32,5 @@ Also, look at this.
 
 Oh hey it's my [bestselling book (trust)](/ProjectPages/hi.txt)
 [Hi! This is Twitter.](https://x.com/home)
+
+{% include buttons2.html button_name="Pretty Please With Berries On Top" button_class="primary" %}
