@@ -8,14 +8,16 @@ layout: default
 
 {{content}}
 
-{% if page.tags %}
-  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
-{% endif %}
-
-
 {% include buttons.html %}
 </body>
 </html>
 {% include buttons.html url="http://www.google.com" %}
 [This is the older way of trying.](https://x.com/home)
 <[Back to Projects]>(https://x.com/home)
+
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
+
+
+
