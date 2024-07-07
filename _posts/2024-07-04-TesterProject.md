@@ -32,11 +32,3 @@ Also, look at this.
 
 Oh hey it's my [bestselling book (trust)](/ProjectPages/hi.txt)
 [Hi! This is Twitter.](https://x.com/home)
-
-
-{% include buttons.html %}
-</body>
-</html>
-{% include buttons.html url="http://www.google.com" %}
-[This is the older way of trying.](https://x.com/home)
-<[Back to Projects]>(https://x.com/home)
