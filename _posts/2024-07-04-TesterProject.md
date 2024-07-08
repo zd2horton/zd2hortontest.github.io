@@ -21,7 +21,7 @@ It helped with things.
 
 Hello! This is another showing of **funny train**.
 
-{% include youtubePlayer.html id=page.youtubeId %}
+<center>{% include youtubePlayer.html id=page.youtubeId %}</center>
 
 
 
