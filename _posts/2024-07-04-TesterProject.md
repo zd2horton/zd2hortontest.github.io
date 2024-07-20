@@ -30,6 +30,12 @@ Also, look at this.
 [![Oh no! Ness!](/zd2hortontest.github.io/assets/img/NessMeme.png)]
 (https://x.com/home "Hi here's Twitter again")
 
+<p>
+  <a href="https://x.com/home" title="Twitter 2 Yah">
+    <img src="/zd2hortontest.github.io/assets/img/NessMeme.png" alt="oh no not again" />
+  </a>
+</p>
+
 
 Oh hey it's my [bestselling book (trust)](/ProjectPages/hi.txt)
 [Hi! This is Twitter.](https://x.com/home)
