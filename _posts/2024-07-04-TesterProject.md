@@ -27,7 +27,7 @@ Hello! This is another showing of **funny train**.
 
 Also, look at this.
 
-![Oh no! Ness!](/assets/img/NessMeme.png)
+![Oh no! Ness!](/zd2hortontest.github.io/assets/img/NessMeme.png)
 
 
 Oh hey it's my [bestselling book (trust)](/ProjectPages/hi.txt)
