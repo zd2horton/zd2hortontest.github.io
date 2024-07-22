@@ -31,8 +31,8 @@ Also, look at this.
 (https://x.com/home "Hi here's Twitter again")
 
 <p>
-  <a href="https://x.com/home" title="Twitter 2 Yah">
-    <img src="/zd2hortontest.github.io/assets/img/NessMeme.png" alt="oh no not again" />
+  <a href="https://x.com/home" title="My favourite projects">
+    <img src="/zd2hortontest.github.io/assets/img/NessMeme.png" alt="Link to other page" />
   </a>
 </p>
 
