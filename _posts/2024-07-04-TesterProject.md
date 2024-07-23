@@ -36,6 +36,12 @@ Also, look at this.
   </a>
 </p>
 
+<p>
+  <a href="https://x.com/home" title="My favourite projects">
+    <img src="/zd2hortontest.github.io/assets/img/UniProjects.png" alt="Link to other page" />
+  </a>
+</p>
+
 
 Oh hey it's my [bestselling book (trust)](/ProjectPages/hi.txt)
 [Hi! This is Twitter.](https://x.com/home)
