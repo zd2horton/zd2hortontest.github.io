@@ -5,11 +5,11 @@ layout: default
 
 <center>{% include youtubePlayer.html id=page.youtubeId %}</center>
 
-<p align="center">
+<div style="text-align: center;">
   <a href="https://x.com/home" title="University Projects">
     <img src="/zd2hortontest.github.io/assets/img/UniProjects.png" alt="University Projects" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <a href="https://x.com/home" title="Personal Projects">
