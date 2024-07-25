@@ -11,11 +11,11 @@ layout: default
   </a>
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://x.com/home" title="Personal Projects">
     <img src="/zd2hortontest.github.io/assets/img/PersonalProjects.png" alt="Personal Projects" />
   </a>
-</p>
+</div>
 
 <p align="center">
   <a href="https://x.com/home" title="Oakrot Games Projects">
